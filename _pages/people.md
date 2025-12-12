@@ -25,14 +25,13 @@ redirect_from:
 <img src="../images/Tomek.jpg" alt="" width="333" height="98"/>
 - Tomasz Gaczorek, Ph.D.
 
-
-<img src="../images/Edossa.jpg" alt="" width="333" height="98"/>
-- Edossa Fikiru, Ph.D.
+<img src="../images/nuria.JPG" alt="" width="333" height="98"/>
+- Nuria Farrús, Ph.D.
 
 <img src="../images/3W5A9852 small.jpg" alt="" width="333" height="98"/>
 - Takahisa Yamashita, Ph.D.
 
-<img src="../images/AgataKalita.jpg" alt="" width="333" height="98"/>
+<img src="../images/agata.jpeg" alt="" width="333" height="98"/>
 - Agata Kalita, Ph.D.
 
 
@@ -47,7 +46,10 @@ redirect_from:
 <img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
 - Krystian Komenda, Ph.D. Student in Bioinformatics.
 
+<img src="../images/mateo.jpeg" alt="" width="333" height="98"/>
+- Mateo Alvarado, Ph.D. Student in Bioinformatics.
 
+- Karina Galčenko, Ph.D Student in Bioinformatics.
 ---
 
 ## Master Students
