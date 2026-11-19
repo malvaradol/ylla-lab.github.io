@@ -46,7 +46,7 @@ redirect_from:
 
 - Karina Galčenko, Ph.D Student in Bioinformatics.
 
-<img src=" ../images/diego.jpg" alt="" width="333" height="98"/>
+<img src="../images/diego.jpg" alt="" width="333" height="98"/>
 - Diego Montiel Ayora, Ph.D Student in Bioinformatics
 
 ---
