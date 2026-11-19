@@ -23,31 +23,37 @@ redirect_from:
 
 ## Postdocs
 <img src="../images/Tomek.jpg" alt="" width="333" height="98"/>
-- Tomasz Gaczorek, Ph.D.
+
+<p>Tomasz Gaczorek, Ph.D.<p>
 
 <img src="../images/nuria.JPG" alt="" width="333" height="98"/>
-- Nuria Farrús, Ph.D.
+
+<p>Nuria Farrús, Ph.D.<p>
 
 <img src="../images/agata.jpeg" alt="" width="333" height="98"/>
-- Agata Kalita, Ph.D.
+
+<p>Agata Kalita, Ph.D.<p>
+
 ---
 
 ## Ph.D. Students
 
 
 <img src="../images/3W5A9729 small.jpg" alt="" width="333" height="98"/>
-- Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
+
+<p>Rafał Miłodrowski, Ph.D. Student in Bioinformatics.<p>
 
 <img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
-- Krystian Komenda, Ph.D. Student in Bioinformatics.
+
+<p>Krystian Komenda, Ph.D. Student in Bioinformatics.<p>
 
 <img src="../images/mateo.jpg" alt="" width="333" height="98"/>
-- Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.
+<p>Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.<p>
 
-- Karina Galčenko, Ph.D Student in Bioinformatics.
+<p>Karina Galčenko, Ph.D Student in Bioinformatics.<p>
 
 <img src="../images/diego.jpg" alt="" width="333" height="98"/>
-- Diego Montiel Ayora, Ph.D Student in Bioinformatics
+<p>Diego Montiel Ayora, Ph.D Student in Bioinformatics.<p>
 
 ---
 
