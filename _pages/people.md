@@ -22,32 +22,32 @@ redirect_from:
 ---
 
 ## Postdocs
-<img src="../images/nuria.JPG" alt="" width="333" height="98"/>
-Nuria Farrús, Ph.D.
-
 <img src="../images/Tomek.jpg" alt="" width="333" height="98"/>
-Tomasz Gaczorek, Ph.D.
+- Tomasz Gaczorek, Ph.D.
+
+<img src="../images/nuria.JPG" alt="" width="333" height="98"/>
+- Nuria Farrús, Ph.D.
 
 <img src="../images/agata.jpeg" alt="" width="333" height="98"/>
-Agata Kalita, Ph.D.
-
-<img src="../images/3W5A9852 small.jpg" alt="" width="333" height="98"/>
-Takahisa Yamashita, Ph.D.
-
+- Agata Kalita, Ph.D.
 ---
 
 ## Ph.D. Students
 
-<img src="../images/mateo_2.JPG" alt="" width="333" height="98"/>
-Mateo Alvarado, Ph.D. Student in Bioinformatics.
-
-Karina Galčenko, Ph.D Student in Bioinformatics.
- 
-<img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
-Krystian Komenda, Ph.D. Student in Bioinformatics.
 
 <img src="../images/3W5A9729 small.jpg" alt="" width="333" height="98"/>
-Rafał Miłodrowski, Ph.D. Student in Bioinformatics. 
+- Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
+
+<img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
+- Krystian Komenda, Ph.D. Student in Bioinformatics.
+
+<img src="../images/mateo.jpg" alt="" width="333" height="98"/>
+- Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.
+
+- Karina Galčenko, Ph.D Student in Bioinformatics.
+
+<img src=" ../images/diego.jpg" alt="" width="333" height="98"/>
+- Diego Montiel Ayora, Ph.D Student in Bioinformatics
 
 ---
 
@@ -55,6 +55,11 @@ Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
 
 - Piotr Michnal, Master Student in Bioinformatics.
 - Mikołaj Radosz, Master Student in Biotechnology.
+
+## Bachelor students
+
+- Natalia Jaworska
+- Victoria Miśkowicz
 
 ---
 
@@ -69,5 +74,5 @@ Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
 - Edossa Fikiru, Ph.D. (2023-2025)
 - Szymon Szrajer, B.Sc.+M.Sc. (2022-2025)
 - Dominik Robak, M.Sc. (2022-2025)
-
+- Takahisa Yamashita, Ph.D (2023-2026)
 
