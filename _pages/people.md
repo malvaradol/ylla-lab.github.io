@@ -22,15 +22,15 @@ redirect_from:
 ---
 
 ## Postdocs
-<img src="../images/Tomek.jpg" alt="" width="333" height="98"/>
+<img src="../images/Tomek.jpg" style="width=333px; object-fit:cover;"/>
 
 <p>Tomasz Gaczorek, Ph.D.<p>
 
-<img src="../images/nuria.JPG" alt="" width="333" height="98"/>
+<img src="../images/nuria.JPG" style="width=333px; object-fit:cover;"/>
 
 <p>Nuria Farrús, Ph.D.<p>
 
-<img src="../images/agata.jpeg" alt="" width="333" height="98"/>
+<img src="../images/agata.jpeg" style="width=333px; object-fit:cover;"/>
 
 <p>Agata Kalita, Ph.D.<p>
 
@@ -39,20 +39,20 @@ redirect_from:
 ## Ph.D. Students
 
 
-<img src="../images/3W5A9729 small.jpg" alt="" width="333" height="98"/>
+<img src="../images/3W5A9729 small.jpg" style="width=333px; object-fit:cover;"/>
 
 <p>Rafał Miłodrowski, Ph.D. Student in Bioinformatics.<p>
 
-<img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
+<img src="../images/3W5A9661 small.jpg" style="width=333px; object-fit:cover;"/>
 
 <p>Krystian Komenda, Ph.D. Student in Bioinformatics.<p>
 
-<img src="../images/mateo.jpg" alt="" width="333" height="98"/>
+<img src="../images/mateo.jpg" style="width=333px; object-fit:cover;"/>
 <p>Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.<p>
 
 <p>Karina Galčenko, Ph.D Student in Bioinformatics.<p>
 
-<img src="../images/diego.jpg" alt="" width="333" height="98"/>
+<img src="../images/diego.jpg" style="width=333px; object-fit:cover;"/>
 <p>Diego Montiel Ayora, Ph.D Student in Bioinformatics.<p>
 
 ---
