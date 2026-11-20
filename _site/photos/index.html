@@ -152,13 +152,7 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/talks/">Communications</a></li>
-          
-            
             <li class="masthead__menu-item"><a href="http://localhost:4000/teaching/">Teaching</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">News</a></li>
           
             
             <li class="masthead__menu-item"><a href="http://localhost:4000/joinus/">Join Us</a></li>
@@ -292,13 +286,43 @@
 
 <h2 id="pictures-from-conferences">Pictures from conferences</h2>
 
-<p><img src="/talks/JW210926_360.jpg" alt="" /> | <img src="/talks/IMG_0161.jpg" alt="" />
-:————————-:|:————————-:</p>
+<style>
+.conference-gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+    max-width: 850px;
+}
 
-<p><img src="/talks/JW210926_356.jpg" alt="" />  | <img src="/talks/JW210926_363.jpg" alt="" /> 
-:————————-:|:————————-:</p>
+.conference-gallery img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    display: block;
+}
 
-<p><img src="../_talks/Ylla_BGI2023.jpg" alt="" /></p>
+.conference-gallery p {
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    .conference-gallery {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+
+<div class="conference-gallery">
+
+  <p><img src="/talks/JW210926_360.jpg" alt="" /></p>
+
+  <p><img src="/talks/IMG_0161.jpg" alt="" /></p>
+
+  <p><img src="/talks/JW210926_356.jpg" alt="" /></p>
+
+  <p><img src="/talks/JW210926_363.jpg" alt="" /></p>
+
+</div>
 
 <hr />
 
