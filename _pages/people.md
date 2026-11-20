@@ -11,7 +11,7 @@ redirect_from:
 ## Group Leader
 
 
-<img src="../images/3W5A9340_smal.jpg" alt="Ylla" width="400" height="292"/>
+<img src="../images/3W5A9340_smal.jpg" style="width:400px; height:300px; object-fit:cover;"/>
 
 - Guillem Ylla, Ph.D.
 
@@ -22,34 +22,33 @@ redirect_from:
 ---
 
 ## Postdocs
-<img src="../images/Tomek.jpg" alt="" width="333" height="98"/>
-- Tomasz Gaczorek, Ph.D.
+<img src="../images/Tomek.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Tomasz Gaczorek, Ph.D.</p>
 
-<img src="../images/nuria.JPG" alt="" width="333" height="98"/>
-- Nuria Farrús, Ph.D.
+<img src="../images/nuria_2.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Nuria Farrús, Ph.D.</p>
 
-<img src="../images/3W5A9852 small.jpg" alt="" width="333" height="98"/>
-- Takahisa Yamashita, Ph.D.
-
-<img src="../images/agata.jpeg" alt="" width="333" height="98"/>
-- Agata Kalita, Ph.D.
-
+<img src="../images/agata_2.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Agata Kalita, Ph.D.</p>
 
 ---
 
 ## Ph.D. Students
+<img src="../images/3W5A9729 small.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Rafał Miłodrowski, Ph.D. Student in Bioinformatics.</p>
 
+<img src="../images/3W5A9661 small.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Krystian Komenda, Ph.D. Student in Bioinformatics.</p>
 
-<img src="../images/3W5A9729 small.jpg" alt="" width="333" height="98"/>
-- Rafał Miłodrowski, Ph.D. Student in Bioinformatics.
+<img src="../images/mateo.jpg" style="width:400px; height:400px; object-fit:cover; object-position:center bottom"/>
+<p>Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.</p>
 
-<img src="../images/3W5A9661 small.jpg" alt="" width="333" height="98"/>
-- Krystian Komenda, Ph.D. Student in Bioinformatics.
+<img src="../images/karina.jpg" style="width:400px; height:400px; object-fit:cover;"/>
+<p>Karina Galčenko, Ph.D Student in Bioinformatics.</p>
 
-<img src="../images/mateo.jpeg" alt="" width="333" height="98"/>
-- Mateo Alvarado, Ph.D. Student in Bioinformatics.
+<img src="../images/diego.jpg" style="width:400px; height:400px; object-fit:cover; object-position:center top"/>
+<p>Diego Montiel Ayora, Ph.D Student in Bioinformatics.</p>
 
-- Karina Galčenko, Ph.D Student in Bioinformatics.
 ---
 
 ## Master Students
@@ -57,8 +56,10 @@ redirect_from:
 - Piotr Michnal, Master Student in Bioinformatics.
 - Mikołaj Radosz, Master Student in Biotechnology.
 
+## Bachelor students
 
-
+- Natalia Jaworska
+- Victoria Miśkowicz
 
 ---
 
@@ -73,5 +74,5 @@ redirect_from:
 - Edossa Fikiru, Ph.D. (2023-2025)
 - Szymon Szrajer, B.Sc.+M.Sc. (2022-2025)
 - Dominik Robak, M.Sc. (2022-2025)
-
+- Takahisa Yamashita, Ph.D (2023-2026)
 
