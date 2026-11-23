@@ -11,7 +11,7 @@ redirect_from:
 ## Group Leader
 
 
-<img src="../images/3W5A9340_smal.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/3W5A9340_smal.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Guillem Ylla, Ph.D.</p>
 
 
@@ -21,31 +21,31 @@ redirect_from:
 ---
 
 ## Postdocs
-<img src="../images/Tomek.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/Tomek.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Tomasz Gaczorek, Ph.D.</p>
 
-<img src="../images/nuria_2.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/nuria_2.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Nuria Farrús, Ph.D.</p>
 
-<img src="../images/agata_2.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/agata_2.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Agata Kalita, Ph.D.</p>
 
 ---
 
 ## Ph.D. Students
-<img src="../images/3W5A9729 small.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/3W5A9729 small.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Rafał Miłodrowski, Ph.D. Student in Bioinformatics.</p>
 
-<img src="../images/3W5A9661 small.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/3W5A9661 small.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Krystian Komenda, Ph.D. Student in Bioinformatics.</p>
 
-<img src="../images/mateo.jpg" style="width:500px; height:500px; object-fit:cover; display:block;">
+<img src="../images/mateo.jpg" style="width:300px; height:300px; object-fit:cover; display:block;">
 <p>Mateo A. Alvarado-Lopez, Ph.D. Student in Bioinformatics.</p>
 
-<img src="../images/karina.jpg" style="width:500px; height:500px; object-fit:cover;"/>
+<img src="../images/karina.jpg" style="width:300px; height:300px; object-fit:cover;"/>
 <p>Karina Galčenko, Ph.D Student in Bioinformatics.</p>
 
-<img src="../images/diego_2.jpg" style="width:500px; height:500px; object-fit:cover; object-position:top; display:block;">
+<img src="../images/diego_2.jpg" style="width:300px; height:300px; object-fit:cover; object-position:top; display:block;">
 <p>Diego Montiel Ayora, Ph.D Student in Bioinformatics.</p>
 
 ---
